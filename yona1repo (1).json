@@ -1,0 +1,192 @@
+{
+  "name": "yona1repo",
+  "subtitle": "yona apps",
+  "description": "Welcome to yona repo ",
+  "iconURL": "https://i.imgur.com/zjzwXTc.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#000000",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/LitdYdk.png",
+  "apps": [
+    {
+      "name": "cupheadios",
+      "bundleIdentifier": "com.spanishfreddy.cupheadios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/uQaHNXK.png",
+      "tintColor": "#fccc14",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download&authuser=0&confirm=t&uuid=5b2dbfb4-7975-49ee-8e99-33001f50396b&at=AAINaIIVd52W5z02yVKEkZ7VFROP%3A1782211103820",
+          "size": 2100000000,
+          "version": "1.0.0",
+          "buildVersion": "",
+          "date": "2026-06-23T10:38:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "HDO  box",
+      "bundleIdentifier": "com.chengzu.book",
+      "marketplaceID": "0004",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/z1aSMkP.png",
+      "tintColor": "#ff5000",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
+          "size": 40300000,
+          "version": "3.0",
+          "buildVersion": null,
+          "date": "2026-06-23T10:36:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "8 Ball Pool",
+      "bundleIdentifier": "com.miniclip.8ballpoolmult",
+      "marketplaceID": "0003",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/1Bi6e6A.png",
+      "tintColor": "#04b1f9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa",
+          "size": 105300000,
+          "version": "56.25.1",
+          "buildVersion": null,
+          "date": "2026-06-23T10:34:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "CapCut",
+      "bundleIdentifier": "com.lemon.lvoverseas",
+      "marketplaceID": "0002",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/S3B4eDZ.png",
+      "tintColor": "#000000",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229",
+          "size": 136900000,
+          "version": "12.0",
+          "buildVersion": null,
+          "date": "2026-06-23T10:31:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "CapCut requires permission to import and add music from Apple's media library to video editing project files.",
+          "NSCameraUsageDescription": "CapCut requires permission to use the camera to capture photos and videos for video editing, saving, publishing.",
+          "NSMicrophoneUsageDescription": "CapCut requires permission to access your microphone to record sounds for video editing, saving, publishing.",
+          "NSPhotoLibraryUsageDescription": "CapCut requires access to the album to import photos and videos to video editing project files and save videos to the device.",
+          "NSUserTrackingUsageDescription": "CapCut requires access to UserTracking to identify the device for managing data statistics, analyzing service effects, ensuring service security and improving user experience.Please rest assured that opening the permission will not obtain your private information on other sites."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "0001",
+      "developerName": "yona",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world.\n\nBasic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium.\n\nWhether you have Premium or not, you can:\n\nGet recommendations based on your taste\nBuild collections of music and podcasts\nAnd more!\nSpotify is available across a range of devices, including computers, phones, tablets, speakers, TVs, and cars, and you can easily transition from one to another with Spotify Connect.",
+      "iconURL": "https://i.imgur.com/PEsTFTr.png",
+      "tintColor": "#1cd464",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.0.36",
+          "date": "2026-06-22T12:01:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=cfa7b2aa6c59e5f977a5b8339d1799da",
+          "size": 84200000,
+          "buildVersion": null,
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "שלום זה ריפוזטורי של יונה",
+      "identifier": "news_xlw034ey0c",
+      "caption": "",
+      "date": "2026-06-22T15:04",
+      "tintColor": "#000000",
+      "imageURL": "https://i.imgur.com/ELgdf0F.png",
+      "notify": true,
+      "url": "",
+      "appID": null
+    }
+  ]
+}
