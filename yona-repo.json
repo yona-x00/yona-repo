@@ -4,6 +4,78 @@
   "sourceURL": "https://raw.githubusercontent.com/yourusername/repo/main/yona-repo.json",
   "apps": [
     {
+      "name": "Nulls Brawl",
+      "bundleIdentifier": "com.cyfhp1jnkb.2v81k0g9ml",
+      "version": "67.264",
+      "versionDate": "2026-06-23",
+      "versionDescription": "An awesome app.",
+      "downloadURL": "https://file.ipaomtk.com/Nulls-Brawl/Nulls-Brawl-IPAOMTK.COM.ipa",
+      "size": 1500000000,
+      "iconURL": "https://i.imgur.com/nYJuD6V.png",
+      "developerName": "Nulls Brawl ",
+      "localizedDescription": "This is an awesome app only available on AltStore."
+    },
+    {
+      "name": "Poppy Playtime Chapter 4",
+      "bundleIdentifier": "com.52rnkm7vkx.hh3jvrwkia",
+      "version": "1.2",
+      "versionDate": "2026-06-23",
+      "versionDescription": "An awesome app.",
+      "downloadURL": "https://file.ipaomtk.com/ipa/Poppy-Playtime-Chapter-IPAOMTK.COM.ipa",
+      "size": 1210000000,
+      "iconURL": "https://i.imgur.com/RjotXMD.png",
+      "developerName": "Mob Entertainment",
+      "localizedDescription": "This is an awesome app only available on AltStore."
+    },
+    {
+      "name": "Poppy Playtime Chapter 3",
+      "bundleIdentifier": "com.sxhw3x7fmm.ws6zwyvy4j",
+      "version": "1",
+      "versionDate": "2026-06-23",
+      "versionDescription": "An awesome app.",
+      "downloadURL": "https://file.ipaomtk.com/ipa/Poppy_Playtime_Chapter_3_ipaomtk.com.ipa",
+      "size": 2390000000,
+      "iconURL": "https://i.imgur.com/TkIuRko.png",
+      "developerName": "Mob Entertainment",
+      "localizedDescription": "This is an awesome app only available on AltStore."
+    },
+    {
+      "name": "Poppy-Playtime-Chapter-2",
+      "bundleIdentifier": "com.5rfz2p2b78.0xf99n8g3v",
+      "version": "2.0",
+      "versionDate": "2026-06-23",
+      "versionDescription": "An awesome app.",
+      "downloadURL": "https://file.ipaomtk.com/ipa/Poppy-Playtime-Chapter-2.ipa",
+      "size": 1230000000,
+      "iconURL": "https://i.imgur.com/vgu8ALv.png",
+      "developerName": "Mob Entertainment",
+      "localizedDescription": "This is an awesome app only available on AltStore."
+    },
+    {
+      "name": "Poppy Playtime Chapter 1 IPA",
+      "bundleIdentifier": "com.tglx8jf4f4.75waas8bm1",
+      "version": "v2.2",
+      "versionDate": "2026-06-23",
+      "versionDescription": "An awesome app.",
+      "downloadURL": "https://file.ipaomtk.com/ipa/Poppy-Playtime.ipa",
+      "size": 1300000000,
+      "iconURL": "https://i.imgur.com/nDd35AL.png",
+      "developerName": "Mob Entertainment",
+      "localizedDescription": "This is an awesome app only available on AltStore."
+    },
+    {
+      "name": "Red Dead Redemption",
+      "bundleIdentifier": "com.l3jvf68jlk.bjm99",
+      "version": "1.50.60293175",
+      "versionDate": "2026-06-23",
+      "versionDescription": "An awesome app.",
+      "downloadURL": "https://dl.iosvizor.net/red-dead-redemption/red-dead-redemption_v1.50.60293175-iosvizor.ipa",
+      "size": 2690000000,
+      "iconURL": "https://i.imgur.com/1n4gUXi.png",
+      "developerName": "Rockstar Games",
+      "localizedDescription": "This is an awesome app only available on AltStore."
+    },
+    {
       "name": "Minecraft",
       "bundleIdentifier": "com.mojang.minecraftpe",
       "version": "1.20.32",
@@ -16,7 +88,7 @@
       "localizedDescription": "This is an awesome app only available on AltStore."
     },
     {
-      "name": "cupheadios",
+      "name": "cuphead",
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
       "version": "1.0.0",
       "versionDate": "2026-06-23",
