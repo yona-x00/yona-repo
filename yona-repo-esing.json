@@ -1,61 +1,67 @@
 {
   "name": "yona1repo",
-  "description": "Welcome to yona repo",
+  "identifier": "com.yona1repo.source",
+  "sourceURL": "https://raw.githubusercontent.com/yourusername/repo/main/yona-repo.json",
   "apps": [
     {
       "name": "cupheadios",
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
       "version": "1.0.0",
       "versionDate": "2026-06-23",
-      "size": "2.1 GB",
-      "downUrl": "https://drive.usercontent.google.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download",
-      "icon": "https://i.imgur.com/uQaHNXK.png",
-      "developer": "Example Developer",
-      "description": "This is an awesome app only available on AltStore."
+      "versionDescription": "This is an awesome app only available on AltStore.",
+      "downloadURL": "https://drive.usercontent.google.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download",
+      "size": 2100000000,
+      "iconURL": "https://i.imgur.com/uQaHNXK.png",
+      "developerName": "Example Developer",
+      "localizedDescription": "This is an awesome app only available on AltStore."
     },
     {
       "name": "HDO box",
       "bundleIdentifier": "com.chengzu.book",
       "version": "3.0",
       "versionDate": "2026-06-23",
-      "size": "40.3 MB",
-      "downUrl": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
-      "icon": "https://i.imgur.com/z1aSMkP.png",
-      "developer": "Example Developer",
-      "description": "This is an awesome app only available on AltStore."
+      "versionDescription": "An awesome app.",
+      "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
+      "size": 40300000,
+      "iconURL": "https://i.imgur.com/z1aSMkP.png",
+      "developerName": "Example Developer",
+      "localizedDescription": "This is an awesome app only available on AltStore."
     },
     {
       "name": "8 Ball Pool",
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
       "version": "56.25.1",
       "versionDate": "2026-06-23",
-      "size": "105.3 MB",
-      "downUrl": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa",
-      "icon": "https://i.imgur.com/1Bi6e6A.png",
-      "developer": "Example Developer",
-      "description": "This is an awesome app only available on AltStore."
+      "versionDescription": "An awesome app.",
+      "downloadURL": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa",
+      "size": 105300000,
+      "iconURL": "https://i.imgur.com/1Bi6e6A.png",
+      "developerName": "Example Developer",
+      "localizedDescription": "This is an awesome app only available on AltStore."
     },
     {
       "name": "CapCut",
       "bundleIdentifier": "com.lemon.lvoverseas",
       "version": "12.0",
       "versionDate": "2026-06-23",
-      "size": "136.9 MB",
-      "downUrl": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229",
-      "icon": "https://i.imgur.com/S3B4eDZ.png",
-      "developer": "Example Developer",
-      "description": "Video editing app."
+      "versionDescription": "Video editing app.",
+      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229",
+      "size": 136900000,
+      "iconURL": "https://i.imgur.com/S3B4eDZ.png",
+      "developerName": "Example Developer",
+      "localizedDescription": "Video editing tools."
     },
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "version": "9.0.36",
       "versionDate": "2026-06-22",
-      "size": "84.2 MB",
-      "downUrl": "https://ipa.cypwn.xyz/serve/get.php?md5=cfa7b2aa6c59e5f977a5b8339d1799da",
-      "icon": "https://i.imgur.com/PEsTFTr.png",
-      "developer": "yona",
-      "description": "Spotify is a digital music, podcast, and video service."
+      "versionDescription": "Digital music service.",
+      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=cfa7b2aa6c59e5f977a5b8339d1799da",
+      "size": 84200000,
+      "iconURL": "https://i.imgur.com/PEsTFTr.png",
+      "developerName": "yona",
+      "localizedDescription": "Spotify is a digital music, podcast, and video service."
     }
   ]
 }
