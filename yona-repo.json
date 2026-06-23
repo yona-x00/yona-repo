@@ -1,100 +1,194 @@
 {
-  "name": "yona1repo",
+  "name": "yona repo",
   "subtitle": "yona apps",
   "description": "Welcome to yona repo",
   "iconURL": "https://i.imgur.com/zjzwXTc.png",
-  "headerURL": "https://i.imgur.com/LitdYdk.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#000000",
+  "featuredApps": [
+    "com.chengzu.book",
+    "com.spanishfreddy.cupheadios"
+  ],
+  "headerURL": "https://i.imgur.com/LitdYdk.png",
   "apps": [
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/HR7dhDW.png",
+      "tintColor": "#74b434",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/Minecraft/Minecraft-IPAOMTK.COM.ipa",
+          "size": 684100000,
+          "version": "1.20.32",
+          "buildVersion": null,
+          "date": "2026-06-23T12:19:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMainNibFile": "MainWindow",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "cupheadios",
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
+      "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/uQaHNXK.png",
       "tintColor": "#fccc14",
       "category": "games",
+      "screenshots": [],
       "versions": [
         {
           "version": "1.0.0",
           "date": "2026-06-23T10:38:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://drive.usercontent.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download",
           "size": 2100000000,
-          "downloadURL": "https://drive.usercontent.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download"
+          "buildVersion": null,
+          "minOSVersion": null
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "HDO box",
       "bundleIdentifier": "com.chengzu.book",
+      "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/z1aSMkP.png",
       "tintColor": "#ff5000",
       "category": "social",
+      "screenshots": [],
       "versions": [
         {
           "version": "3.0",
           "date": "2026-06-23T10:36:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
           "size": 40300000,
-          "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa"
+          "buildVersion": null,
+          "minOSVersion": null
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "8 Ball Pool",
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
+      "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/1Bi6e6A.png",
       "tintColor": "#04b1f9",
       "category": "other",
+      "screenshots": [],
       "versions": [
         {
           "version": "56.25.1",
           "date": "2026-06-23T10:34:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa",
           "size": 105300000,
-          "downloadURL": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa"
+          "buildVersion": null,
+          "minOSVersion": null
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "CapCut",
       "bundleIdentifier": "com.lemon.lvoverseas",
+      "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "Video editing tools.",
       "iconURL": "https://i.imgur.com/S3B4eDZ.png",
       "tintColor": "#000000",
       "category": "photo-video",
+      "screenshots": [],
       "versions": [
         {
           "version": "12.0",
           "date": "2026-06-23T10:31:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229",
           "size": 136900000,
-          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229"
+          "buildVersion": null,
+          "minOSVersion": null
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
       "developerName": "yona",
       "subtitle": "An awesome app.",
       "localizedDescription": "Spotify is a digital music, podcast, and video service.",
       "iconURL": "https://i.imgur.com/PEsTFTr.png",
       "tintColor": "#1cd464",
       "category": "social",
+      "screenshots": [],
       "versions": [
         {
           "version": "9.0.36",
           "date": "2026-06-22T12:01:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=cfa7b2aa6c59e5f977a5b8339d1799da",
           "size": 84200000,
-          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=cfa7b2aa6c59e5f977a5b8339d1799da"
+          "buildVersion": null,
+          "minOSVersion": null
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     }
-  ]
+  ],
+  "news": []
 }
