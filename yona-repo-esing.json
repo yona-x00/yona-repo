@@ -1,25 +1,24 @@
 {
   "name": "yona1repo",
-  "identifier": "com.yona1repo.source",
-  "icon": "https://i.imgur.com/zjzwXTc.png",
+  "description": "Welcome to yona repo",
   "apps": [
     {
       "name": "cupheadios",
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
       "version": "1.0.0",
       "versionDate": "2026-06-23",
-      "size": 2100000000,
-      "downUrl": "https://drive.usercontent.google.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download&authuser=0&confirm=t&uuid=5b2dbfb4-7975-49ee-8e99-33001f50396b&at=AAINaIIVd52W5z02yVKEkZ7VFROP%3A1782211103820",
+      "size": "2.1 GB",
+      "downUrl": "https://drive.usercontent.google.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download",
       "icon": "https://i.imgur.com/uQaHNXK.png",
       "developer": "Example Developer",
       "description": "This is an awesome app only available on AltStore."
     },
     {
-      "name": "HDO  box",
+      "name": "HDO box",
       "bundleIdentifier": "com.chengzu.book",
       "version": "3.0",
       "versionDate": "2026-06-23",
-      "size": 40300000,
+      "size": "40.3 MB",
       "downUrl": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
       "icon": "https://i.imgur.com/z1aSMkP.png",
       "developer": "Example Developer",
@@ -30,7 +29,7 @@
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
       "version": "56.25.1",
       "versionDate": "2026-06-23",
-      "size": 105300000,
+      "size": "105.3 MB",
       "downUrl": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa",
       "icon": "https://i.imgur.com/1Bi6e6A.png",
       "developer": "Example Developer",
@@ -41,22 +40,22 @@
       "bundleIdentifier": "com.lemon.lvoverseas",
       "version": "12.0",
       "versionDate": "2026-06-23",
-      "size": 136900000,
+      "size": "136.9 MB",
       "downUrl": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229",
       "icon": "https://i.imgur.com/S3B4eDZ.png",
       "developer": "Example Developer",
-      "description": "CapCut requires access to UserTracking to identify the device for managing data statistics, analyzing service effects, ensuring service security and improving user experience.Please rest assured that opening the permission will not obtain your private information on other sites."
+      "description": "Video editing app."
     },
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "version": "9.0.36",
       "versionDate": "2026-06-22",
-      "size": 84200000,
+      "size": "84.2 MB",
       "downUrl": "https://ipa.cypwn.xyz/serve/get.php?md5=cfa7b2aa6c59e5f977a5b8339d1799da",
       "icon": "https://i.imgur.com/PEsTFTr.png",
       "developer": "yona",
-      "description": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world.\n\nBasic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium.\n\nWhether you have Premium or not, you can:\n\nGet recommendations based on your taste\nBuild collections of music and podcasts\nAnd more!\nSpotify is available across a range of devices, including computers, phones, tablets, speakers, TVs, and cars, and you can easily transition from one to another with Spotify Connect."
+      "description": "Spotify is a digital music, podcast, and video service."
     }
   ]
 }
