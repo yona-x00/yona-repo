@@ -1,67 +1,100 @@
 {
   "name": "yona1repo",
-  "identifier": "com.yona1repo.source",
-  "sourceURL": "https://raw.githubusercontent.com/yourusername/repo/main/yona-repo.json",
+  "subtitle": "yona apps",
+  "description": "Welcome to yona repo",
+  "iconURL": "https://i.imgur.com/zjzwXTc.png",
+  "headerURL": "https://i.imgur.com/LitdYdk.png",
+  "tintColor": "#000000",
   "apps": [
     {
       "name": "cupheadios",
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
-      "version": "1.0.0",
-      "versionDate": "2026-06-23",
-      "versionDescription": "This is an awesome app only available on AltStore.",
-      "downloadURL": "https://drive.usercontent.google.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download",
-      "size": 2100000000,
-      "iconURL": "https://i.imgur.com/uQaHNXK.png",
       "developerName": "Example Developer",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/uQaHNXK.png",
+      "tintColor": "#fccc14",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-06-23T10:38:00+03:00",
+          "size": 2100000000,
+          "downloadURL": "https://drive.usercontent.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download"
+        }
+      ]
     },
     {
       "name": "HDO box",
       "bundleIdentifier": "com.chengzu.book",
-      "version": "3.0",
-      "versionDate": "2026-06-23",
-      "versionDescription": "An awesome app.",
-      "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
-      "size": 40300000,
-      "iconURL": "https://i.imgur.com/z1aSMkP.png",
       "developerName": "Example Developer",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/z1aSMkP.png",
+      "tintColor": "#ff5000",
+      "category": "social",
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2026-06-23T10:36:00+03:00",
+          "size": 40300000,
+          "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa"
+        }
+      ]
     },
     {
       "name": "8 Ball Pool",
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
-      "version": "56.25.1",
-      "versionDate": "2026-06-23",
-      "versionDescription": "An awesome app.",
-      "downloadURL": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa",
-      "size": 105300000,
-      "iconURL": "https://i.imgur.com/1Bi6e6A.png",
       "developerName": "Example Developer",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/1Bi6e6A.png",
+      "tintColor": "#04b1f9",
+      "category": "other",
+      "versions": [
+        {
+          "version": "56.25.1",
+          "date": "2026-06-23T10:34:00+03:00",
+          "size": 105300000,
+          "downloadURL": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa"
+        }
+      ]
     },
     {
       "name": "CapCut",
       "bundleIdentifier": "com.lemon.lvoverseas",
-      "version": "12.0",
-      "versionDate": "2026-06-23",
-      "versionDescription": "Video editing app.",
-      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229",
-      "size": 136900000,
-      "iconURL": "https://i.imgur.com/S3B4eDZ.png",
       "developerName": "Example Developer",
-      "localizedDescription": "Video editing tools."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Video editing tools.",
+      "iconURL": "https://i.imgur.com/S3B4eDZ.png",
+      "tintColor": "#000000",
+      "category": "photo-video",
+      "versions": [
+        {
+          "version": "12.0",
+          "date": "2026-06-23T10:31:00+03:00",
+          "size": 136900000,
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229"
+        }
+      ]
     },
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-      "version": "9.0.36",
-      "versionDate": "2026-06-22",
-      "versionDescription": "Digital music service.",
-      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=cfa7b2aa6c59e5f977a5b8339d1799da",
-      "size": 84200000,
-      "iconURL": "https://i.imgur.com/PEsTFTr.png",
       "developerName": "yona",
-      "localizedDescription": "Spotify is a digital music, podcast, and video service."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Spotify is a digital music, podcast, and video service.",
+      "iconURL": "https://i.imgur.com/PEsTFTr.png",
+      "tintColor": "#1cd464",
+      "category": "social",
+      "versions": [
+        {
+          "version": "9.0.36",
+          "date": "2026-06-22T12:01:00+03:00",
+          "size": 84200000,
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=cfa7b2aa6c59e5f977a5b8339d1799da"
+        }
+      ]
     }
   ]
 }
