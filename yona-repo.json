@@ -1,155 +1,366 @@
 {
   "name": "yona repo",
-  "identifier": "com.yona1repo.source",
-  "sourceURL": "https://raw.githubusercontent.com/yourusername/repo/main/yona-repo.json",
+  "subtitle": "yona apps",
+  "description": "Welcome to yona repo",
+  "iconURL": "https://i.imgur.com/zjzwXTc.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#000000",
+  "featuredApps": [
+    "com.chengzu.book",
+    "com.spanishfreddy.cupheadios",
+    "com.miniclip.8ballpoolmult",
+    "com.lemon.lvoverseas",
+    "com.mojang.minecraftpe",
+    "com.spotify.client"
+  ],
+  "headerURL": "https://i.imgur.com/LitdYdk.png",
   "apps": [
     {
       "name": "Nulls Brawl",
       "bundleIdentifier": "com.cyfhp1jnkb.2v81k0g9ml",
-      "version": "67.264",
-      "versionDate": "2026-06-23",
-      "versionDescription": "An awesome app.",
-      "downloadURL": "https://file.ipaomtk.com/Nulls-Brawl/Nulls-Brawl-IPAOMTK.COM.ipa",
-      "size": 1500000000,
-      "icon": "https://i.imgur.com/nYJuD6V.png",
-      "iconURL": "https://i.imgur.com/nYJuD6V.png",
+      "marketplaceID": "",
       "developerName": "Nulls Brawl ",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/nYJuD6V.png",
+      "tintColor": "#8800ff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/Nulls-Brawl/Nulls-Brawl-IPAOMTK.COM.ipa",
+          "size": 1500000000,
+          "version": "67.264",
+          "buildVersion": "",
+          "date": "2026-06-23T13:20:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": "11.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Poppy Playtime Chapter 4",
       "bundleIdentifier": "com.52rnkm7vkx.hh3jvrwkia",
-      "version": "1.2",
-      "versionDate": "2026-06-23",
-      "versionDescription": "An awesome app.",
-      "downloadURL": "https://file.ipaomtk.com/ipa/Poppy-Playtime-Chapter-IPAOMTK.COM.ipa",
-      "size": 1210000000,
-      "icon": "https://i.imgur.com/RjotXMD.png",
-      "iconURL": "https://i.imgur.com/RjotXMD.png",
+      "marketplaceID": "",
       "developerName": "Mob Entertainment",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/RjotXMD.png",
+      "tintColor": "#00c5ff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/ipa/Poppy-Playtime-Chapter-IPAOMTK.COM.ipa",
+          "size": 1210000000,
+          "version": "1.2",
+          "buildVersion": "",
+          "date": "2026-06-23T13:16:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Poppy Playtime Chapter 3",
       "bundleIdentifier": "com.sxhw3x7fmm.ws6zwyvy4j",
-      "version": "1",
-      "versionDate": "2026-06-23",
-      "versionDescription": "An awesome app.",
-      "downloadURL": "https://file.ipaomtk.com/ipa/Poppy_Playtime_Chapter_3_ipaomtk.com.ipa",
-      "size": 2390000000,
-      "icon": "https://i.imgur.com/TkIuRko.png",
-      "iconURL": "https://i.imgur.com/TkIuRko.png",
+      "marketplaceID": "",
       "developerName": "Mob Entertainment",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/TkIuRko.png",
+      "tintColor": "#5d00b7",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/ipa/Poppy_Playtime_Chapter_3_ipaomtk.com.ipa",
+          "size": 2390000000,
+          "version": "1",
+          "buildVersion": "",
+          "date": "2026-06-23T13:14:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Poppy-Playtime-Chapter-2",
       "bundleIdentifier": "com.5rfz2p2b78.0xf99n8g3v",
-      "version": "2.0",
-      "versionDate": "2026-06-23",
-      "versionDescription": "An awesome app.",
-      "downloadURL": "https://file.ipaomtk.com/ipa/Poppy-Playtime-Chapter-2.ipa",
-      "size": 1230000000,
-      "icon": "https://i.imgur.com/vgu8ALv.png",
-      "iconURL": "https://i.imgur.com/vgu8ALv.png",
+      "marketplaceID": "",
       "developerName": "Mob Entertainment",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/vgu8ALv.png",
+      "tintColor": "#ff00a4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/ipa/Poppy-Playtime-Chapter-2.ipa",
+          "size": 1230000000,
+          "version": "2.0",
+          "buildVersion": "",
+          "date": "2026-06-23T10:07:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Poppy Playtime Chapter 1 IPA",
       "bundleIdentifier": "com.tglx8jf4f4.75waas8bm1",
-      "version": "v2.2",
-      "versionDate": "2026-06-23",
-      "versionDescription": "An awesome app.",
-      "downloadURL": "https://file.ipaomtk.com/ipa/Poppy-Playtime.ipa",
-      "size": 1300000000,
-      "icon": "https://i.imgur.com/nDd35AL.png",
-      "iconURL": "https://i.imgur.com/nDd35AL.png",
+      "marketplaceID": "",
       "developerName": "Mob Entertainment",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/nDd35AL.png",
+      "tintColor": "#0097ff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/ipa/Poppy-Playtime.ipa",
+          "size": 1300000000,
+          "version": "v2.2",
+          "buildVersion": "",
+          "date": "2026-06-23T13:04:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Red Dead Redemption",
       "bundleIdentifier": "com.l3jvf68jlk.bjm99",
-      "version": "1.50.60293175",
-      "versionDate": "2026-06-23",
-      "versionDescription": "An awesome app.",
-      "downloadURL": "https://dl.iosvizor.net/red-dead-redemption/red-dead-redemption_v1.50.60293175-iosvizor.ipa",
-      "size": 2690000000,
-      "icon": "https://i.imgur.com/1n4gUXi.png",
-      "iconURL": "https://i.imgur.com/1n4gUXi.png",
+      "marketplaceID": "",
       "developerName": "Rockstar Games",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/1n4gUXi.png",
+      "tintColor": "#ff0000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dl.iosvizor.net/red-dead-redemption/red-dead-redemption_v1.50.60293175-iosvizor.ipa",
+          "size": 2690000000,
+          "version": "1.50.60293175",
+          "buildVersion": "",
+          "date": "2026-06-23T12:29:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Minecraft",
       "bundleIdentifier": "com.mojang.minecraftpe",
-      "version": "1.20.32",
-      "versionDate": "2026-06-23",
-      "versionDescription": "An awesome app.",
-      "downloadURL": "https://file.ipaomtk.com/Minecraft/Minecraft-IPAOMTK.COM.ipa",
-      "size": 684100000,
-      "icon": "https://i.imgur.com/HR7dhDW.png",
-      "iconURL": "https://i.imgur.com/HR7dhDW.png",
+      "marketplaceID": "",
       "developerName": "Example Developer",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/HR7dhDW.png",
+      "tintColor": "#74b434",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/Minecraft/Minecraft-IPAOMTK.COM.ipa",
+          "size": 684100000,
+          "version": "1.20.32",
+          "buildVersion": null,
+          "date": "2026-06-23T12:19:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMainNibFile": "MainWindow",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+        }
+      },
+      "patreon": {}
     },
     {
       "name": "cuphead",
       "bundleIdentifier": "com.spanishfreddy.cupheadios",
-      "version": "1.0.0",
-      "versionDate": "2026-06-23",
-      "versionDescription": "First AltStore release!",
-      "downloadURL": "https://drive.usercontent.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download",
-      "size": 2100000000,
-      "icon": "https://i.imgur.com/uQaHNXK.png",
-      "iconURL": "https://i.imgur.com/uQaHNXK.png",
+      "marketplaceID": "",
       "developerName": "Example Developer",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/uQaHNXK.png",
+      "tintColor": "#fccc14",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-06-23T10:38:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://drive.usercontent.com/download?id=1OA-DgdCY5_XGZBIUQhtW9-S6rIdE2Dw8&export=download",
+          "size": 2100000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "HDO box",
       "bundleIdentifier": "com.chengzu.book",
-      "version": "3.0",
-      "versionDate": "2026-06-23",
-      "versionDescription": "First AltStore release!",
-      "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
-      "size": 40300000,
-      "icon": "https://i.imgur.com/z1aSMkP.png",
-      "iconURL": "https://i.imgur.com/z1aSMkP.png",
+      "marketplaceID": "",
       "developerName": "Example Developer",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/z1aSMkP.png",
+      "tintColor": "#ff5000",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2026-06-23T10:36:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
+          "size": 40300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "8 Ball Pool",
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
-      "version": "56.25.1",
-      "versionDate": "2026-06-23",
-      "versionDescription": "First AltStore release!",
-      "downloadURL": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa",
-      "size": 105300000,
-      "icon": "https://i.imgur.com/1Bi6e6A.png",
-      "iconURL": "https://i.imgur.com/1Bi6e6A.png",
+      "marketplaceID": "",
       "developerName": "Example Developer",
-      "localizedDescription": "This is an awesome app only available on AltStore."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/1Bi6e6A.png",
+      "tintColor": "#04b1f9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "56.25.1",
+          "date": "2026-06-23T10:34:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://file.ipaomtk.com/8-ball-pool-ipa/8-ball-pool-i3rby-IPAOMTK.COM.ipa",
+          "size": 105300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "CapCut",
       "bundleIdentifier": "com.lemon.lvoverseas",
-      "version": "12.0",
-      "versionDate": "2026-06-23",
-      "versionDescription": "First AltStore release!",
-      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229",
-      "size": 136900000,
-      "icon": "https://i.imgur.com/S3B4eDZ.png",
-      "iconURL": "https://i.imgur.com/S3B4eDZ.png",
+      "marketplaceID": "",
       "developerName": "Example Developer",
-      "localizedDescription": "Video editing tools."
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Video editing tools.",
+      "iconURL": "https://i.imgur.com/S3B4eDZ.png",
+      "tintColor": "#000000",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "12.0",
+          "date": "2026-06-23T10:31:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=89e98019149e17f21cb1f4004fe33229",
+          "size": 136900000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-      "version": "9.0.36",
-      "versionDate": "2026-06-22",
-      "versionDescription": "First AltStore release!",
-      "downloadURL": "
+      "marketplaceID": "",
+      "developerName": "yona",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Spotify is a digital music, podcast, and video service.",
+      "iconURL": "https://i.imgur.com/PEsTFTr.png",
+      "tintColor": "#1cd464",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.0.36",
+          "date": "2026-06-22T12:01:00+03:00",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=cfa7b2aa6c59e5f977a5b8339d1799da",
+          "size": 84200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
